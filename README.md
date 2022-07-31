@@ -7,11 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Learning Laravel
+## About this Project
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+I am currently learning Laravel, although I have gone a bit far with it, Laravel makes PHP loves lovable again for me.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+I have built some basic projects with Laravel learning some of the core fundamentals and now I wanna use what I learnt so far to see if I can build an ecommerce site.
+
+I will be dropping each progress until I am done with the site. any pull request or sending or issues are welcomed as it will help me in learning also.
 
 ## License
 
